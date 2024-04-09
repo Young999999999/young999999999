@@ -1,4 +1,12 @@
-### Hi there 👋
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwqw58)
+
+# Skills 
+`Framework & Language`
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 <!--
 **Young999999999/young999999999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
