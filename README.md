@@ -1,28 +1,28 @@
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwqw58)
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/young999999999"/>
-</a>
 
-# Skills 
+
+### 🧰 Skills 
 `Framework & Language`
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<br/>
+<br/>
+  
 
-<!--
-**Young999999999/young999999999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education & Awards
+- **Naver BoostCamp 10th** — *2025.06 ~ Present*
+- **Level B** — 삼성전자 SW 역량테스트 (2025.02)
+- **과학기술정보통신부장관상** — 소프트웨어중심대학 디지털 경진대회 (SW 부문, 2024.08)
+- **최우수상** — 프로메테우스 AI 해커톤 (후원: Intel, LINE, 콴다, 2024.02)
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 ETC
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwqw58) <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/young999999999"/>
+</a>
